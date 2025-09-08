@@ -1,8 +1,9 @@
 # Cloud Computing Performance Analytics
 ## 📊 Project Overview
-Advanced dashboard development for key client portfolios in cloud computing
-sector, focusing on segmented sales campaigns performance and conversion rate
+Advanced dashboard development for key client portfolios using cloud computing soultions.
+Focusing on segmented sales campaigns performance and conversion rate
 optimization.
+
 ## 🎯 Objectives
 - Design advanced dashboards for key client portfolios
 - Measure segmented sales campaigns performance
